@@ -1,0 +1,7 @@
+C:\Users\marti\Desktop\B2\partiel\SUJET\4eme\git hub\GitHub\GitHub\obj\Debug\GitHub.csprojResolveAssemblyReference.cache
+C:\Users\marti\Desktop\B2\partiel\SUJET\4eme\git hub\GitHub\GitHub\obj\Debug\GitHub.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\B2\partiel\SUJET\4eme\git hub\GitHub\GitHub\bin\Debug\GitHub.exe.config
+C:\Users\marti\Desktop\B2\partiel\SUJET\4eme\git hub\GitHub\GitHub\bin\Debug\GitHub.exe
+C:\Users\marti\Desktop\B2\partiel\SUJET\4eme\git hub\GitHub\GitHub\bin\Debug\GitHub.pdb
+C:\Users\marti\Desktop\B2\partiel\SUJET\4eme\git hub\GitHub\GitHub\obj\Debug\GitHub.exe
+C:\Users\marti\Desktop\B2\partiel\SUJET\4eme\git hub\GitHub\GitHub\obj\Debug\GitHub.pdb
